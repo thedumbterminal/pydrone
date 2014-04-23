@@ -6,7 +6,7 @@ Python port of scriptcraft's JS drone class
 This uses the API provided by [RaspberryJuice](https://github.com/zhuowei/RaspberryJuice) to replicate some of the functionality that is provided by
 [ScriptCraft](http://scriptcraftjs.org/)
 
-Thanks to @panicnot for the example.py code and the introduction to RaspberryJuice and ScriptCraft.
+Thanks to [Emily Rumbelow](https://github.com/panicnot) for the example.py code and the introduction to RaspberryJuice and ScriptCraft.
 
 Usage
 -----
